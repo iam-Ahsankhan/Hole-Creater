@@ -5,8 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/CallBreak/Scene/Splash.unity
-    guid: 1d72760d22e138c4082ca0b2943e0745
+  - enabled: 1
+    path: Assets/FPS Scene.unity
+    guid: 796676e56556f9c44ac50c684d4c0b91
   m_configObjects: {}
-  m_UseUCBPForAssetBundles: 0

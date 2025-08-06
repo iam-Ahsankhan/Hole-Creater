@@ -2,8 +2,9 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
-  tags: []
+  serializedVersion: 2
+  tags:
+  - DeformableMesh
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - Post
+  - 
   - 
   - 
   - 
@@ -38,39 +39,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3690394531
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: GameFXBelow
-    uniqueID: 2702653849
-    locked: 0
-  - name: Game
-    uniqueID: 3555828333
-    locked: 0
-  - name: GameFXAbove
-    uniqueID: 1239594681
-    locked: 0
-  - name: UI
-    uniqueID: 1487168175
-    locked: 0
-  - name: Guidance
-    uniqueID: 3065889473
-    locked: 0
-  - name: UIAbove
-    uniqueID: 3691127317
-    locked: 0
-  - name: OverLayer
-    uniqueID: 2436408325
-    locked: 0
-  m_RenderingLayers:
-  - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
